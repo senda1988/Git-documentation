@@ -1,5 +1,5 @@
 # Git Documentation
-test
+
 ## Referenz
 
 ### Referenzhandbuch
